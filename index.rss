@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
 <title>Paul Voccio's Git Achievements</title>
+<item><title>Apprentice Stone Mason (Level 2)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
 <item><title>Apprentice Presenter (Level 3)</title><description>Shows one or more objects (blobs, trees, tags and commits) with git show</description></item>
 <item><title>Apprentice Historian (Level 3)</title><description>Investigate the commit log using git log.</description></item>
 <item><title>Garage Inventor</title><description>Used a custom alias for a Git command</description></item>
