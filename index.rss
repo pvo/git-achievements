@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
 <title>Paul Voccio's Git Achievements</title>
+<item><title>Apprentice Gipsy (Level 2)</title><description>Create, list, delete a tag signed with GPG using git tag</description></item>
 <item><title>Cherry Picker</title><description>Used git cherry-pick to add a sha from another branch into the current branch.</description></item>
 <item><title>Apprentice Author (Level 3)</title><description>Made 2^Level commits using git commit.</description></item>
 <item><title>Apprentice Collector (Level 1)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
