@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
 <title>Paul Voccio's Git Achievements</title>
+<item><title>Socialite (Level 5)</title><description>pushed a branch to a remote repository using git push</description></item>
 <item><title>Apprentice Merchant (Level 2)</title><description>Added an external repository with git remote add.</description></item>
 <item><title>Presenter (Level 6)</title><description>Shows one or more objects (blobs, trees, tags and commits) with git show</description></item>
 <item><title>Apprentice Blacksmith (Level 3)</title><description>Created a branch using git checkout -b.</description></item>
@@ -19,5 +20,4 @@
 <item><title>Historian (Level 5)</title><description>Investigate the commit log using git log.</description></item>
 <item><title>Apprentice Investigator (Level 1)</title><description>Used git blame to annotates a file with information about how each line changed.</description></item>
 <item><title>Presenter (Level 4)</title><description>Shows one or more objects (blobs, trees, tags and commits) with git show</description></item>
-<item><title>Author (Level 4)</title><description>Made 2^Level commits using git commit.</description></item>
 </channel></rss>
